@@ -1,2 +1,2 @@
-# C37 - Actividad de la maestra 1
+# C47 1:M
 Actividad de la maestra
